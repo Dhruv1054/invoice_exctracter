@@ -1,0 +1,15 @@
+# Uploaded PDFs and generated Excel files
+uploads/
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
